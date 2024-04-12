@@ -19,3 +19,8 @@ go run main.go
 ```
 
 The server will start and listen for incoming connections on `port 8080`.
+
+### Screenshots
+![Screenshot from 2024-04-12 12-23-21](https://github.com/RohanDoshi21/gRPC-Chat-Server/assets/63660267/56d5980c-c807-405b-a215-6c4e38e33306)
+![Screenshot from 2024-04-12 12-23-32](https://github.com/RohanDoshi21/gRPC-Chat-Server/assets/63660267/2ceb7b4d-6f26-4e22-a6b2-770ac439c1ae)
+![Screenshot from 2024-04-12 12-23-41](https://github.com/RohanDoshi21/gRPC-Chat-Server/assets/63660267/4f92613a-19cb-4e97-8044-090f3390a481)
